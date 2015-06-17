@@ -5,7 +5,7 @@ title: Building a simple producer and consumer using Scala and Akka
 
 One of the great things about software engineering is the unbounded innovation, sometimes out of necessity and sometimes out of curiosity, of the open source community.  Two of the many very cool innovations in the last few years are Scala and Akka.  Scala is a nearly-functional programming language that runs on the Java platform. Akka is a rapidly maturing message-passing framework. From these two little gems, together with a whole bunch of other innovative ideas, we get Apache Spark.  Spark will be the topic of a future post.  For now, let's look at a simple example of Akka message passing using Scala.
 
-With the velocity of (often incompatible) changes in emerging open source tools, it's often hard to find even simple examples that work with the currently available versions of the tools.  With that in mind I thought it might be helpful to put together perhaps the simplest example of message passing using Scala version 2.11.6 and Akka version 2.3.11.
+With the velocity of (often incompatible) changes in emerging open source tools, it's often hard to find even simple examples that work with the currently available versions of the tools.  With that in mind I thought it might be helpful to put together perhaps the simplest example of message passing using Scala (version 2.11.6) and Akka (version 2.3.11).
 
 Our goal is to create two programs using Scala and Akka: a producer of the message "Hello World" and a consumer that prints the message on the screen.  Here we'll use remoting so the programs can run on different machines.  All this means we have to get a number of things right....sometimes a difficult feat, but that's the purpose of the post.  
 
