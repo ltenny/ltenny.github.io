@@ -24,7 +24,7 @@ Akka is a message passing framework. In place of the traditional synchronous 'ca
 ## The Producer ##
 The first of the two programs we need to write is the producer.  Here's the code:
 
-{% highlight scala linenos %}
+{% highlight scala %}
 package com.ctd.bigdata
 
 import akka.actor._
@@ -82,7 +82,7 @@ The messages we're sending are simple Scala objects. Nothing fancy.
 
 The actor does all of the heavy lifting.
 
-{% highlight scala linenos %}
+{% highlight scala %}
 class DoWorkActor(host: String, remoteSystem: String, actorName: String) extends Actor {
     val uri =  s"akka.tcp://$remoteSystem@$host:11729/user/$actorName"
     val remoteActor = context.actorFor(uri)
@@ -116,7 +116,7 @@ We handle just two messages in this worker actor.  Scala match syntax here makes
 ## The Consumer ##
 The code for the consumer is simple.  We just need to create the actor system and the consumer actor.  We handle just one message which is a String.
 
-{% highlight scala linenos %}
+{% highlight scala %}
 package com.ctd.bigdata
 
 import akka.actor._
@@ -149,7 +149,7 @@ The code is simple and fun. Configuring the build is really not.  Here the subtl
 
 Here's the pom.xml for producer.  The consumer is almost identical.
 
-{% highlight xml linenos %}
+{% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -280,7 +280,7 @@ The application.conf file needs to go into the src/main/resources folder. From h
 
 Here's what our application.conf file looks like:
 
-{% highlight scala linenos %}
+{% highlight scala %}
 akka {
   actor {
     provider = "akka.remote.RemoteActorRefProvider"
@@ -297,7 +297,7 @@ akka {
 
 It's simple. We just add in the configuration we need to get remoting to work.  Unfortunately, if we put this out on our classpath, the actor system would be furiously upset about not having all of the key values it needs.  It turns out that what we really need to do is concatenate this with all of the reference.conf files associated with all the Akka libraries we're using.  This is where the maven-shade-plugin comes in handy.
 
-{% highlight xml linenos %}
+{% highlight xml %}
 <plugin>
    <groupId>org.apache.maven.plugins</groupId>
    <artifactId>maven-shade-plugin</artifactId>
