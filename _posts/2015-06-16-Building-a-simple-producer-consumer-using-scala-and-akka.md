@@ -384,4 +384,8 @@ Of course, all of this is not the cleanest example possible.  To keep things sim
 
 ##### The code for this post can be found <a href="https://github.com/ltenny/SimpleProducerConsumer">here</a>.#####
 
+#####Update: I've also included the sbt files if you would rather use sbt than maven.#####
+
+
+
 
