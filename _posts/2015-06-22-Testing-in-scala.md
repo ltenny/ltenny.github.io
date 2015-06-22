@@ -73,7 +73,7 @@ If you mixin _**BeforeAndAfter**_, you can also use _**before**_ {} to do any wo
 
 What happens when we run these tests?  
 
-{% hightlight tcsh %}
+{% highlight tcsh %}
 ff62ps1:ScalaTesting ltenny$ sbt test
 [info] Set current project to ScalaTesting (in build file:/Users/ltenny/Blog/repositories/ScalaTesting/ScalaTesting/)
 [info] DotifyUnitTests:
