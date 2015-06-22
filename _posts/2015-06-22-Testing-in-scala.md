@@ -151,7 +151,7 @@ Oops...well, that didn't go well.  Hold off on shipping the code.  When ScalaChe
 The moral of the story: Write better unit tests **and** use ScalaCheck.
 
 #### References ####
-A wonderful reference for ScalaCheck is: _ScalaCheck, The Definitive Guide_ by Rickard Nilson, Artima Press, Walnut Creek, CA.  This is available on Amazon. It covers ScalaCheck in depth and provides some great examples as well as very good insight into testing scala applications.
+A wonderful reference for ScalaCheck is: _ScalaCheck, The Definitive Guide_ by Rickard Nilsson, Artima Press, Walnut Creek, CA.  This is available on Amazon. It covers ScalaCheck in depth and provides some great examples as well as very good insight into testing scala applications.
 
 ##### The code for this post can be found <a href="https://github.com/ltenny/ScalaTesting">here</a>.#####
 
