@@ -17,7 +17,7 @@ But how do we test?  The traditional and most widely used approach is to test in
 Property-based testing is a slightly different take on unit testing.  It's not radically different in many respects, but it can help us be more thorough. In property-based testing, we define tests that are intended to evaluate a bit of code over a wide range of possible inputs.  In the place of specific inputs and checks that a specific output was generated, we build more of a specification of what the outputs should be given any inputs.  This is much more like testing the specification of the program rather than specific inputs.  But, in the end, it's much more like having an underlying test harness that can run the unit tests over and over again with lots of different inputs. This is kind of like approximating the curve with lots of points. The more points the better. However, well chosen points (as with an expert unit test writer) can often convey as much valuable information about the shape of the curve.
 
 ## The Code ##
-Imagine we are given the lofty and difficult task of writing a method that fits a string into a spot on a user interface in such a way that no more than _**N**_ characters are taken up by the string.  Anyone who has build desktop applications knows that screen space is limited. Some spot on the screen can really only be 20 characters wide and sometimes we need to put a 100 character string in there.  The easy choice is to chop it off at 20 characters.  A little better choice is to print a few characters of the start of the string, indicate that there is some hidden stuff too wide to display in the middle (usually with ...) and finish off the text with the last part of the string.  So we may need to display: "The rain in Spain falls many on the plains."  But we can only fit: "The rain...on the plains" on the allotted screen real estate.  
+Imagine we are given the lofty and difficult task of writing a method that fits a string into a spot on a user interface in such a way that no more than _**N**_ characters are taken up by the string.  Anyone who has built desktop applications knows that screen space is limited. Some spot on the screen can really only be 20 characters wide and sometimes we need to put a 100 character string in there.  The easy choice is to chop it off at 20 characters.  A little better choice is to print a few characters of the start of the string, indicate that there is some hidden stuff too wide to display in the middle (usually with ...) and finish off the text with the last part of the string.  So we may need to display: "The rain in Spain falls many on the plains."  But we can only fit: "The rain...on the plains" on the allotted screen real estate.  
 
 Given this horrendously complex task (just kidding of course), you might come up with the following:
 
@@ -45,7 +45,7 @@ Here we take a string and a max length that is available for the string.  We try
 
 ## Unit Tests ##
 
-Your first approach, of course, is traditional unit testing. In scala the ScalaTest framework is popular.  You can, of course, the JUnit because scala runs on the JVM.  But, you're a dedicated scala developer so you choose to stick with your own kind.  Here's what you might come up with:
+Your first approach, of course, is traditional unit testing. In Scala the ScalaTest framework is popular.  You can, of course, the JUnit because Scala runs on the JVM.  But, you're a dedicated Scala developer so you choose to stick with your own kind.  Here's what you might come up with:
 
 {% highlight scala %}
 package com.trc.blog
