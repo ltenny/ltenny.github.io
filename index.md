@@ -10,5 +10,6 @@ We believe privacy is a human right. More details about our privacy policy can b
 
 
 
-# Find our iPhone app on the Apple AppStore
+# Find our iPhone Apps on the Apple AppStore
+
 
