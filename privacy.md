@@ -4,7 +4,7 @@ title: Privacy Policy
 description: Privacy is a Human Right
 ---
 
-## Our privacy policy
+## Our Privacy Policy
 
 At Tenny Research, LLC we believe privacy is a human right. As such, we are careful to collect only the absolute minimum amount of personal information, to guard it carefully, and to always keep you in control. We have created this Privacy Policy to explain how we collect, use, disclose and process personal information in connection with operating our business. This Privacy Policy describes the practices concerning the information collected by Tenny Research, LLC.  Tenny Research, LLC is the controller of your personal information.
 
@@ -25,7 +25,7 @@ The following are examples of information you may provide:
 
 * Name. In some cases you may need to provide a name in order to help personalize you experience with our applications.
 
-* Email address. We may use you email address to communicate with you about the applications, your experiences, responding to your requests, inquiries, comments, and suggestions.
+* Email address. We may use your email address to communicate with you about the applications, your experiences, responding to your requests, inquiries, comments, and suggestions.
 
 We do not collect Automated information such as via cookies or other technologies in our apps. We may use Pixel tags to obtain metrics for our corporate web site to measure the effectiveness of its content.
 
@@ -55,7 +55,7 @@ Our governing privacy principle is that Privacy is a Human Right.  We strive to 
 We may share information about you in connection with (including during the evaluation or negotiation of) a corporate change or dissolution, including for example a merger, acquistion, reorganization, consolidation, liquidation, sale of assets or wind-down of a business. Unless prohibited by applicable law, we reserve the right to transfer the information we maintain in the event we engage in any corporate transaction.
 
 ### Social Media
-We maintain a presence on several social networking platforms. If you choose to communicate with us or another user through social networking such informaiton may be made publically available. Please do not include any sensitive information (such as personal information, social security numbers, credit card numbers, passwords, etc.) in these communications.
+We maintain a presence on several social networking platforms. If you choose to communicate with us or another user through social networking such informaiton may be made publicly available. Please do not include any sensitive information (such as personal information, social security numbers, credit card numbers, passwords, etc.) in these communications.
 
 ### For Individuals in the European Economic Area
 As a resident of the European Economic Area (EEA), you may have some or all of the following rights in relation to how we use your personal information:
@@ -81,7 +81,7 @@ As outlined above, we strive to minimize the amount of and processing of your pe
 We may transfer your personal information to other countries for the purposes described here. For example, if you are located outside of the United States, we may transfer your personal information to the United States. In all cases we strive to comply with all applicable EEA requirements.
 
 ### California Privacy Rights
-If you are a California resident, the California Privacy Act (CCDPA) may provide you with rights that are in addition to those set forth in this Privacy Policy regarding our use of your personal information.  You may contact us at: admin@tennyresearch.com for any request related to your rights under CCPA. We may require proof of identity and verification before we can process your request.
+If you are a California resident, the California Consumer Privacy Act (CCPA) may provide you with rights that are in addition to those set forth in this Privacy Policy regarding our use of your personal information.  You may contact us at: admin@tennyresearch.com for any request related to your rights under CCPA. We may require proof of identity and verification before we can process your request.
 
 ### Data Retention
 We pledge to retain your personal information for no longer than is required as outlined in the Privacy Policy.  Unless required by applicable law or regulation, we will retain your personal information for no more than three (3) years after we become aware that you have ceased using our services.  You may request that we delete your personal information sooner or verify that we have deleted your personal information by contacting us at: admin@tennyresearch.com. We may require proof of identity and verification before we can process your request.
