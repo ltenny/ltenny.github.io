@@ -1,0 +1,4 @@
+Notes
+
+- to run the server locally: bundle exec jekyll serve
+
