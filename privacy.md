@@ -6,7 +6,7 @@ description: Privacy is a Human Right
 
 ## Our Privacy Policy
 
-At Tenny Research, LLC we believe privacy is a human right. As such, we are careful to collect only the absolute minimum amount of personal information, to guard it carefully, and to always keep you in control. We have created this Privacy Policy to explain how we collect, use, disclose and process personal information in connection with operating our business. This Privacy Policy describes the practices concerning the information collected by Tenny Research, LLC.  Tenny Research, LLC is the controller of your personal information.
+At Tenny Research LLC we believe privacy is a human right. As such, we are careful to collect only the absolute minimum amount of personal information, to guard it carefully, and to always keep you in control. We have created this Privacy Policy to explain how we collect, use, disclose and process personal information in connection with operating our business. This Privacy Policy describes the practices concerning the information collected by Tenny Research LLC.  Tenny Research LLC is the controller of your personal information.
 
 This Privacy Policy applies to our mobile applications and any services we provide on which this Privacy Policy is posted, and our collection of information from our corresponding social media pages. In addition to describing how we collect, use, disclose and otherwise process personal information, this Privacy Policy explains the rights and choices available to individuals with respect to their personal information.
 
@@ -21,7 +21,7 @@ We will never collect more personal information about you than is required for o
 All information we collect is information provided knowingly by you.  We will never leverage third-parties to either directly obtain or infer your personal information.  
 
 The following are examples of information you may provide:
-* Feedback in applications. From time to time we may request feedback on our applications.  We may ask for your opinions, suggestions, or ideas how we might improve our applications.  Any feedback you provide shall be owned by Tenny Research, LLC and may be used at our sole discretion.
+* Feedback in applications. From time to time we may request feedback on our applications.  We may ask for your opinions, suggestions, or ideas how we might improve our applications.  Any feedback you provide shall be owned by Tenny Research LLC and may be used at our sole discretion.
 
 * Name. In some cases you may need to provide a name in order to help personalize you experience with our applications.
 
