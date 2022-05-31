@@ -15,7 +15,7 @@ We believe privacy is a human right. More details about our privacy policy can b
 
 ## OpusMinder
 
-[!<img alt="OpusMinder" src="images/opusminder.png"/>](https://apps.apple.com/us/app/opusminder/id1626523449) 
+[<img alt="OpusMinder" src="images/opusminder.png"/>](https://apps.apple.com/us/app/opusminder/id1626523449) 
 
 Track your tasks with OpusMinder and organize your life!
 
