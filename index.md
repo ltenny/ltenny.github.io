@@ -17,7 +17,8 @@ We believe privacy is a human right. More details about our privacy policy can b
 
 [<img alt="OpusMinder" src="images/opusminder.png"/>](https://apps.apple.com/us/app/opusminder/id1626523449) 
 
-[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1654214400&h=13cc35cb65725a7d06f482188f9b8203" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"](https://apps.apple.com/us/app/opusminder/id1626523449?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;")
+[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1654214400&h=13cc35cb65725a7d06f482188f9b8203" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"/>](https://apps.apple.com/us/app/opusminder/id1626523449?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;")
+
 
 Track your tasks with OpusMinder and organize your life!
 
